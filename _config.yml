@@ -8,6 +8,8 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
+github: [metadata]
+
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
@@ -19,7 +21,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   breath with Azure. bron in UNIX. live in Linux.
   write something about technical and love.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "http://electronicnomad.net"
+url: "http://electronicnomad.github.io" 
+  #"http://electronicnomad.net"
   #"http://electronicnomad.github.io" 
   # the base hostname & protocol for your site, e.g. http://example.com
 
