@@ -16,9 +16,11 @@
 title: electronicnomad's Home
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-breath with Azure. bron in UNIX. live in Linux. love to write someting. 
+  breath with Azure. bron in UNIX. live in Linux.
+  write something about technical and love.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "http://electronicnomad.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: http://electronicnomad.net  
+  #"http://electronicnomad.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  electronicnomad
 
