@@ -83,7 +83,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kwanghoon Jhin"
+  name             : "전자유목민"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "born in UNIX, live in Linux, love to write something, breath with Azure."
   location         : "a corner of the network"
@@ -254,4 +254,3 @@ defaults:
       related: true
 
 theme: jekyll-theme-minimal
-
