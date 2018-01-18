@@ -11,13 +11,13 @@ minimal_mistakes_skin    : "air" #"default" "air", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "electronicnomad's Home"
 title_separator          : "-"
-name                     : "Kwanghoon Jhin"
-description              : "breath with Azure. born in UNIX. live in Linux. write something about technical and love."
+name                     : "전자유목민의 집구석"
+description              : "중요하지 않은 몇 가지 기술에 관한 주장과 외래용어 번역에 관한 가벼운 의견"
 url                      : "http://electronicnomad.net" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : electronicnomad/electronicnomad.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-# breadcrumbs            : false # true, false (default)
+# breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
@@ -254,4 +254,3 @@ defaults:
       related: true
 
 theme: minimal-mistakes-jekyll
-
