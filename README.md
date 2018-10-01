@@ -1,3 +1,1 @@
-# electronicnomad.github.io
-an Electronic Nomad's Home <br />
-電子遊牧民의 家庭
+an electronic nomad's home / 전자유목민의 집구석
