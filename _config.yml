@@ -14,5 +14,6 @@ permalink: pretty
 # just leave empty to disable it
 google_analytics: UA-113185952-1
 disqus_shortname:
+google_ad_client: ca-pub-9199867433920998
 
 #port: 4001
