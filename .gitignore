@@ -2,7 +2,6 @@
 .gitattributes
 _drafts/
 .git
-Gemfile*
 # 
 .bundle/
 # 
