@@ -1,14 +1,12 @@
 .DS_Store
 .gitattributes
-_drafts/
 .git
-# 
 .bundle/
-# 
 _site/
+_drafts/
 .sass-cache/
 .jekyll-metadata
 .jekyll-cache/
 vendor/
-Gemfile.lock
 *.gem
+*.swp
