@@ -19,3 +19,8 @@ disqus_shortname:
 #data-ad-client: ca-pub-9199867433920998
 
 #port: 4001
+
+plugins:
+- jekyll-sitemap
+
+exclude: ["LICENSE", "README.md", "CNAME", "vendor", "Gemfile", "script"]
