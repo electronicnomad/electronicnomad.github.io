@@ -174,7 +174,7 @@ td {
  */
 hr {
     border: none;
-    border-top: 2px solid lighten($grey-color, 20%);
+    border-top: 1.5px dashed lighten($grey-color, 20%);
     margin: $spacing-unit auto;
 }
 /**
