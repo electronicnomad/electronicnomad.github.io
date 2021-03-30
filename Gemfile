@@ -1,13 +1,12 @@
 source 'https://rubygems.org'
-group :jekyll_plugins do
-    gem "jekyll-sitemap"
-    gem "github-pages"
-end
+gem "jekyll-sitemap", group: :jekyll_plugins
+#gem "github-pages", group: :jekyll_plugins
 gem 'html-proofer'
 gem 'tzinfo'
 gem 'tzinfo-data'
 gem "activesupport"
 gem "yajl-ruby"
 gem "nokogiri"
-gem "kramdown", ">= 2.3.0"
-gem "jekyll", ">= 3.6.3"
+gem "kramdown", ">= 2.3.1"
+gem "jekyll", ">= 4.2.0"
+gem "webrick", "~> 1.7"
