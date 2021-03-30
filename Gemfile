@@ -8,6 +8,6 @@ gem 'tzinfo'
 gem 'tzinfo-data'
 gem "activesupport"
 gem "yajl-ruby"
-gem "kramdown"
-gem "jekyll"
 gem "nokogiri"
+gem "kramdown", ">= 2.3.0"
+gem "jekyll", ">= 3.6.3"
