@@ -10,3 +10,4 @@ _drafts/
 vendor/
 *.gem
 *.swp
+Gemfile.lock
