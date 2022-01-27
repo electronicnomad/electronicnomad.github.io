@@ -59,8 +59,15 @@ GEM
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.4.0)
+<<<<<<< Updated upstream
     minitest (5.15.0)
     nokogiri (1.13.1-arm64-darwin)
+=======
+    minitest (5.14.4)
+    nokogiri (1.11.7-x86_64-darwin)
+      racc (~> 1.4)
+    nokogiri (1.11.7-x86_64-linux)
+>>>>>>> Stashed changes
       racc (~> 1.4)
     nokogiri (1.13.1-x86_64-linux)
       racc (~> 1.4)
@@ -92,7 +99,11 @@ GEM
     yell (2.2.2)
 
 PLATFORMS
+<<<<<<< Updated upstream
   arm64-darwin-20
+=======
+  x86_64-darwin-21
+>>>>>>> Stashed changes
   x86_64-linux
 
 DEPENDENCIES
@@ -108,4 +119,4 @@ DEPENDENCIES
   yajl-ruby
 
 BUNDLED WITH
-   2.2.18
+   2.2.30
