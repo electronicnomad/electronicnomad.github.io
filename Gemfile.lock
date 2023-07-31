@@ -133,7 +133,7 @@ DEPENDENCIES
   nokogiri
   tzinfo
   tzinfo-data
-  webrick (~> 1.7)
+  webrick (>= 1.4)
   yajl-ruby
 
 BUNDLED WITH
