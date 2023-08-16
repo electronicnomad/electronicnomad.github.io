@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 성공적인 마이그레이션 프로젝트 수주를 위한 조건
-author: Kwanghoon Jhin
+author: 주인장
 ---
 
 사례로 검증되는 풍부한 경험, 혹은  
