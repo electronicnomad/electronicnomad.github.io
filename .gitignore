@@ -1,10 +1,11 @@
+Gemfile.lock
+_site/
+.sass-cache/
+.jekyll-metadata
 .DS_Store
 vendor/
 .bundle/
-_site/
 _drafts/
-.sass-cache/
-.jekyll-metadata
 .jekyll-cache/
 *.gem
 *.swp
