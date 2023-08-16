@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hello World
-author: Kwanghoon Jhin
+author: 주인장
 ---
 
 Hello World  
