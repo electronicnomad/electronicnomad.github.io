@@ -14,9 +14,9 @@ permalink: pretty
 # just leave empty to disable it
 ##google_analytics: UA-113185952-1
 ##google_tracking_id: UA-113185952-1
-google_analytics: G-GMF02VSY8W
-google_tracking_id: 6005705255
-disqus_shortname:
+#google_analytics: G-GMF02VSY8W
+#google_tracking_id: 6005705255
+#disqus_shortname:
 
 #port: 4001
 
