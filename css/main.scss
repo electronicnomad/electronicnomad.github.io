@@ -6,8 +6,8 @@
 // Our variables
 // $base-font-family: 'Droid Sans', sans-serif;
 // $base-font-family: 'Open Sans', 'Noto Sans', 'Droid Sans', sans-serif;
-$base-font-family: "Noto Sans", "Noto Sans KR", sans-serif;
-$code-font-family: Inconsolata, Monaco, Consolas, monospace;
+$base-font-family: 'Noto Sans KR', 'Noto Sans', 'Open Sans', sans-serif;
+$code-font-family: 'Noto Sans Mono', Inconsolata, Monaco, Consolas, monospace;
 // $base-font-size:   16px;
 $base-font-size:   medium;
 // $base-font-weight: 300;
@@ -46,7 +46,7 @@ $on-:              800px;
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
 		// url(https://fonts.googleapis.com/css?family=Droid+Sans),
-		url(https://fonts.googleapis.com/css?family=Noto+Sans|Noto+Sans+KR|Nanum+Gothic|Droid+Sans&font-display=swap),
+		url(https://fonts.googleapis.com/css?family=Noto+Sans+KR|Nanum+Gothic|Noto+Sans|Droid+Sans&font-display=swap),
         "base",
         "layout",
         "syntax-highlighting"
