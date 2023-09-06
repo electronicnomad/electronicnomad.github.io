@@ -2,6 +2,9 @@
 layout: post
 title: 좋은 기술이 있다굽쇼?
 author: 주인장
+description: 기술을 적용하려면 구성원들의 준비가 필요하다
+tags:
+- 신기술
 ---
 
 이런 말을 종종 뱉게 되거나 듣게 된다.
