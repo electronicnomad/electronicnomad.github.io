@@ -33,7 +33,7 @@
  */
 .page-content {
     position: relative;
-    padding: $spacing-unit calc($spacing-unit * 0.75);
+    padding: $spacing-unit ($spacing-unit * 0.75);
     margin: 1rem;
     box-sizing: border-box;
     max-width: $max-width;
@@ -49,7 +49,7 @@
 }
 
 .post-list > li {
-    margin-bottom: calc($spacing-unit / 4);
+    margin-bottom: ($spacing-unit / 4);
     list-style-type: none;
     margin-left: -2rem;
 
