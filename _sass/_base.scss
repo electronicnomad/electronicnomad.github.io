@@ -99,6 +99,7 @@ a {
 
     &:hover {
         text-decoration: underline;
+        text-underline-offset: +0.16rem;
     }
 }
 /**
@@ -187,3 +188,8 @@ hr {
         clear: both;
     }
 }
+
+/** custom for underline and bold **/
+u {text-underline-offset: +0.16rem;}
+strong {font-weight: 800;}
+b {font-weight: 800;}
