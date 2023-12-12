@@ -1,11 +1,11 @@
-Gemfile.lock
+#Gemfile.lock
 _site/
 .sass-cache/
-.jekyll-metadata
-.DS_Store
-vendor/
-.bundle/
-_drafts/
 .jekyll-cache/
+.jekyll-metadata
+.bundle/
+vendor/
+_drafts/
 *.gem
 *.swp
+.DS_Store
