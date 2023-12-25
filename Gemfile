@@ -10,3 +10,4 @@ gem "nokogiri", ">= 1.8.2"
 gem "kramdown", ">= 2.3.1"
 gem "jekyll", ">= 4.2.0"
 gem "webrick", ">= 1.4"
+gem 'jekyll-compose', group: [:jekyll_plugins]
