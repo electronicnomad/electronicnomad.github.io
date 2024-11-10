@@ -8,9 +8,13 @@
         <p>&copy; {{ site.time | date: '%Y' }}
 		<!-- <a href="{{ site.baseurl | prepend: site.url }}" -->
 		<a href="{{ site.url }}" title="{{ site.description }}"><strong>{{ site.title }}</strong></a>
-    | <a href="/" title="back to home or root">change directory to &radic;</a>
+  <a href="/" title="back to home or root">change directory to &radic;</a> |
 	<br />&#9851; <small>this site built on <a href="http://github.com/heiswayi/textlog"
         		title="a minimalist Jekyll theme for documentation">Textlog theme</a>
+  <!-- from nav.html -->
+    | <a href="{{ '/tagged' | prepend: site.baseurl | prepend: site.url }}">Tags</a>
+    | <a href="{{ '/feed.xml' | prepend: site.baseurl | prepend: site.url }}">RSS</a>
+  <!-- from nav.html -->
 		</small>
 	</p>
       </div>
