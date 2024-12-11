@@ -9,3 +9,4 @@ _drafts/
 *.swp
 .DS_Store
 Gemfile.lock
+.vscode/
