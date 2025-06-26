@@ -10,6 +10,18 @@ layout: default
 		{% include intro.html %}
 	</section>
 	<section>
+<!--		<h2>Notes</h2> -->
+		{% for note in site.notes %}
+		  <article>
+			<!-- <h3>{{ note.title }}</h3> -->
+			<div class="note-content">
+				{{ note.content }}
+			<!-- <time datetime="{{ note.date | date_to_xmlschema }}">{{ note.date | date: "%b %d, %Y" }}</time> -->
+			</div>
+		  </article>
+		{% endfor %}
+	</section>
+	<section>
 		<ul class="post-list">
 			{% for post in site.posts %}
 			<li>
