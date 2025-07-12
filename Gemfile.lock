@@ -42,10 +42,14 @@ GEM
     ethon (0.16.0)
       ffi (>= 1.15.0)
     eventmachine (1.2.7)
+<<<<<<< HEAD
     ffi (1.17.2-arm64-darwin)
     ffi (1.17.2-x64-mingw-ucrt)
     ffi (1.17.2-x86_64-darwin)
     ffi (1.17.2-x86_64-linux-gnu)
+=======
+    ffi (1.17.2)
+>>>>>>> 72d1a49934d701569e78e1ba98f2a08bb4009069
     fiber-annotation (0.2.0)
     fiber-local (1.1.0)
       fiber-storage
@@ -144,6 +148,7 @@ GEM
     rouge (4.5.2)
     ruby-rc4 (0.1.5)
     safe_yaml (1.0.5)
+<<<<<<< HEAD
     sass-embedded (1.89.2-arm64-darwin)
       google-protobuf (~> 4.31)
     sass-embedded (1.89.2-x64-mingw-ucrt)
@@ -153,6 +158,11 @@ GEM
     sass-embedded (1.89.2-x86_64-linux-gnu)
       google-protobuf (~> 4.31)
     securerandom (0.4.1)
+=======
+    sass-embedded (1.79.6)
+      google-protobuf (~> 4.27)
+      rake (>= 13)
+>>>>>>> 72d1a49934d701569e78e1ba98f2a08bb4009069
     terminal-table (3.0.2)
       unicode-display_width (>= 1.1.1, < 3)
     traces (0.15.2)
