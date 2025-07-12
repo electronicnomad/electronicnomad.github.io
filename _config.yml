@@ -22,3 +22,9 @@ plugins:
 - jekyll-sitemap
 
 exclude: ["LICENSE", "README.md", "CNAME", "vendor", "Gemfile", "script"]
+
+collections:
+  notes:
+    output: true
+    permalink: /notes/:path/
+
