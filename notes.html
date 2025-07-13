@@ -1,0 +1,9 @@
+---
+layout: page
+title: 여기-저기 흩어져 있는 것들
+---
+
+{% for note in site.notes %}
+	{{ note.content | markdownify }}
+{% endfor %}
+	
