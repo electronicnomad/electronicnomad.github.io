@@ -8,7 +8,6 @@ _drafts/
 *.gem
 *.swp
 .DS_Store
-Gemfile.lock
 .vscode/
 [dD]esktop.ini
 Thumbs.db
