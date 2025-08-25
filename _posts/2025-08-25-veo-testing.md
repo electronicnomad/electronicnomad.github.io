@@ -234,3 +234,13 @@ Veo 2는 다양성과 정치적 올바름에서 벗어나지 않기 위해 안�
 Veo 3는 Veo 1에서 도저히 결과로 출력할 수 없을 것 같은 프롬프트도 사용자의 의도에 가깝게 출력해 주는 것을 볼 수 있었습니다. Veo 3의 여러 눈부신 발전 중에 가장 크게 만족스러웠던 것은 바로 이 부분이었습니다.
 
 Veo 모델의 버전이 올라가면서 사용자가 체감하는 발전 중에 최고의 하나를 선정한다면 - 점점 더 적은 횟수의 시도로 의도에 가까운 결과를 얻을 수 있었다는 점이라고 할 수 있겠습니다.
+
+### And so on ... | 그리고 뭣 좀 더 ... 
+
+Individual videos for each model have been uploaded to YouTube in separate playlists. The playlists are as follows.
+
+개별 영상들은 모델별로 playlist를 만들어 YouTube에 게시해 두었습니다. 그 playlists는 다음과 같습니다.
+
+- [Veo Demo (Preview 0815)](https://youtube.com/playlist?list=PLErlU15VorUhIAtp6WSgCg-6PxkWSmJpI&feature=shared) - Veo-Preview-0815
+- [Veo 2 Demo](https://youtube.com/playlist?list=PLErlU15VorUgeA5miJR7rc5iE1MeRxVyI&feature=shared)  veo-2.0-generate-002 
+- [Veo 3 Demo](https://youtube.com/playlist?list=PLErlU15VorUi_0LeCtQzp_Db87Zh3IYwz&feature=shared)  veo-3.0-generate-preview
