@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Veo demo, comparing results by model (version) with the same prompt
+title: Veo 데모, 동일한 프롬프트를 사용하여 모델(버전)별 결과 비교.
 author: 주인장
 tags:
 - veo
@@ -12,26 +12,9 @@ tags:
 - demo
 ---
 
-Veo demo, comparing results by model (version) with the same prompt.  
 Veo 데모, 동일한 프롬프트를 사용하여 모델(버전)별 결과 비교.
 
-# Purpose of testing Veo | Veo를 테스트했던 목적
-
-I suggested using Veo to an entertainment industry client 
-to create a music video in the "Official Visualization" category. 
-Veo seemed like a very suitable solution, and I judged that 
-it was sufficient to provide the results the label wanted 
-in a short time at a significantly lower price compared 
-to professional production companies.
-
-I created a demo using the following five prompts 
-and presented it to top-level decision-makers, 
-production teams, and clients from the IT pillar.
-
-The initial results were produced with the Veo 0815 model. 
-Afterwards, as Veo evolved into Veo 2 and Veo 3, 
-I'd like to share my experience and discuss the differences 
-in the outputs when the same prompts were used.
+# Veo를 테스트했던 목적
 
 저는 엔터테인먼트 업계의 한 고객사에 Official Visualization이라는 
 카테고리의 뮤직비디오를 만드는 작업에  Veo의 사용을 제안했습니다. 
@@ -45,9 +28,9 @@ Veo는 매우 적합해 보이는 솔루션이었고 실제 전문 제작사에 
 그리고 그 이후, Veo 2, Veo 3로 발전되면서 같은 프롬프트를 입력하면 
 어떤 차이가 만들어 졌는지 공유하며 저의 경험을 나누고 싶습니다.
 
-# Demo videos by Veo | Veo의 데모 비디오들
+# Veo의 데모 비디오들
 
-### Prompts used | 사용한 프롬프트들
+### 사용한 프롬프트들
 
 - A wide shot of a lone person riding a classic motorbike across a vast, sun-drenched prairie, with a dramatic sky filled with fluffy clouds in the background. The person is silhouetted against the setting sun, creating a sense of epic scale and adventure.
 
@@ -76,12 +59,6 @@ Veo는 매우 적합해 보이는 솔루션이었고 실제 전문 제작사에 
 {% include youtube.html id="iJmLHMRJFp8" %}
 <hr />
 
-The prompt that yielded the best results with Veo 1 (a name I'm using for distinction, though it's not official) was also the most dramatic, which I was very pleased with.
-
-Veo 2 felt like it used a higher-magnification lens compared to Veo 1. If Veo 1 was a 24mm wide-angle lens, Veo 2 felt like a 50mm standard lens.
-
-It was surprising that with Veo 3, I was able to get very satisfying results on most of the first attempts.
-
 Veo 1(Veo 1이라는 명칭은 공식적으로 존재하지 않지만, Veo 2와 Veo 3와 구분하기 위하여 사용하겠습니다)에서 가장 쉽게 결과를 얻을 수 있었던 프롬프트입니다. 그리고 가장 극적인 연출이 있었기에 매우 만족할 수 있었습니다.
 
 Veo 2는 Veo 1에 비하여 상대적으로 고배율 렌즈를 사용하는 느낌이었습니다. Veo 1이 24mm 광각렌즈라면, Veo 2는 50mm 표준렌즈를 쓰는 느낌이었습니다. 
@@ -104,14 +81,6 @@ Veo 3는 대부분 첫 시도에서 상당히 만족스러운 결과를 얻을 �
 - veo-3.0-generate-preview 
 {% include youtube.html id="pxcFdJ9ppb4" %}
 <hr />
-
-I thought this would be a great example of cinematic direction and decided to give it a try. But, it required an incalculable number of attempts with Veo 1.
-
-However, as I moved to Veo 2 and Veo 3, the probability of getting what I wanted increased significantly. With Veo 3, I got the video I wanted on the very first prompt.
-
-I recall that with most of my Veo 1 attempts, I had to try at least 30 times. With Veo 2, it was around 10 tries, and with Veo 3, I was able to get what I wanted within 1 to 3 tries. This is where I can see the progress of the model.
-
-However, the number of attempts can vary greatly depending on each person's goals. What I want to emphasize is that the number of retries can be seen as an indicator of how many attempts it took to get a relatively consistent result.
 
 시네마틱 연출의 예로 아주 좋은 것이라 생각하고 도전을 했지만, Veo 1에서는 정말 헤아릴 수 없을 만큼 많은 시도가 필요했습니다.
 
@@ -138,10 +107,6 @@ However, the number of attempts can vary greatly depending on each person's goal
 {% include youtube.html id="61VtEBSdGGQ" %}
 <hr />
 
-When Veo 1 was first introduced, I really wanted to create a demo that included human hands. At the time, generative AI (for both video and images) had a tough time accurately depicting human fingers.
-
-My goal in making this video was to show how precisely the AI could represent human fingers.
-
 Veo 1이 처음 선보였을 때, 사람의 손이 나오는 데모를 반드시 만들어 보고 싶었습니다. 당시 사람의 손가락을 Gen AI가 표현하는 (영상이든 사진이든) 데에 어려움을 겪고 있었을 때였습니다.
 
 전 이 영상을 만들었을 때 오로지 사람의 손가락 표현이 얼마나 정교한지에 대하여 보여주고 싶었습니다.
@@ -163,10 +128,6 @@ Veo 1이 처음 선보였을 때, 사람의 손이 나오는 데모를 반드시
 {% include youtube.html id="V_RvGufnxx0" %}
 <hr />
 
-Of the challenges presented by Veo 2, one was the ability to create various camera angles (though in a short amount of time). I was impressed by how natural the transitions were and that there was no awkwardness compared to the shots before the angle changed.
-
-One of the most significant developments with Veo 3 was the addition of audio support. As you can see in the video above, it was astonishing how naturally the dialogue was matched to the on-screen generated subjects.
-
 Veo 2에서 선보인 도전 중에 (짧은 시간 내이지만) 카메라 앵글을 다양하게 연출한다는 것이다. 그리고 앵글이 바뀌는 과정이 매우 자연스럽고, 바뀌기 전과 비교해서도 어색함이 전혀 없다는 것에 감탄할 수 있었습니다.
 
 Veo 3에서 음향이 지원되는 것이 엄청난 발전 중에 하나였는데, 위 영상에서 확인할 수 있는 것과 같이 매우 자연스러운 대사를 화면 속 생성된 대상과 맞추어 연출해 주는 것은 놀라울 정도였습다.
@@ -182,8 +143,6 @@ Veo 3에서 음향이 지원되는 것이 엄청난 발전 중에 하나였는�
 
 - veo-2.0-gnerate-002
 
-  Using the prompt, I couldn't create a video with Veo 2. So, I generated an image with Imagen using the prompt and then used that image as input for Veo 2 to create the video.
-
   해당 프롬프트로 Veo 2에서는 영상을 만들 수 없었습니다. 그래서, 위 프롬프트로 Imagen에서 이미지를 생성하고, 생성한 이미지를 Veo 2에 입력하여 영상을 만들었습니다.
 
 {% include youtube.html id="YCI8c8gVzBM" %}
@@ -193,14 +152,6 @@ Veo 3에서 음향이 지원되는 것이 엄청난 발전 중에 하나였는�
 {% include youtube.html id="LQRGDAe_vRU" %}
 <hr />
 
-When I was testing video generation with Veo 1, I was most satisfied with the results I got. It took an incredible number of tries, but I was impressed with how it even expressed the facial muscles of the person in the video, how it produced very faithful results from a short prompt, and how it understood the term 'girl group.'
-
-However, the term 'girl group' was not allowed in Veo 2 and was not accepted by the system. While Veo 3 recognized the term 'k-pop group,' Veo 2 also treated 'k-pop group' as inappropriate.
-
-Veo 2 was very unique in many ways. It felt less like an evolution of Veo 1 and more like an entirely different project that just inherited the name. Furthermore, this model seemed to have a strong intention to express 'diversity,' which led to many input and output restrictions. It also always produced one result that was different from the intended output.
-
-Veo 3 was very satisfying, even with the voice output. It was interesting that the output dialogue was the same even after multiple retries. I also liked that it interpreted the prompt as a moment of interviewing an artist.
-
 Veo 1에서 영상 생성 테스트를 진행했었을 때, 이 결과를 얻고 가장 만족했습다. 물론, 엄청난 횟수의 시도가 있었지만, 화면 속 인물의 얼굴 근육까지 표현되었다는 점, 그리고 짧은 프롬프트에서 매우 충실한 결과를 출력했다는 점, 그리고 girl group이라는 표현을 이해했다는 점에서 좋았습다.
 
 하지만, girl group이라는 표현은 Veo 2부터 사용할 수 없었습다. 시스템에서 받아 들이지 않았습다. 하지만, Veo 3에서는 k-pop group으로 인식된 것에 비해,  Veo 2는 k-pop group이라는 표현도 부적절한 것으로 취급했습다.
@@ -209,23 +160,11 @@ Veo 2는 여러 면에서 매우 특이했는데, 마치 Veo 1에서 발전해 �
 
 Veo 3는 음성 출력까지 모든 것이 만족스러웠는데, 다만 저 출력되는 대사는 여러차례 재시도를 해도 같았다는 점이 신기했습니다. 그리고 제시된 프롬프트가 아티스트를 인터뷰하는 순간으로 해석한 것이 좋았습니다. 
 
-# Overall review | 총평
-
-- Veo 1 was a more impressive model than you remember.
-- Veo 2 focused on generating results that were free of social issues.
-- Veo 3 made me wonder what comes next. It was amazing.
+# 총평
 
 - Veo 1은 당신의 기억보다 멋진 모델이었다.
 - Veo 2는 사회적 문제가 없는 결과를 출력하기 위해 노력했다. 
 - Veo 3는 그 다음은 무엇일지 궁금하게 만들었다. 놀라웠다.
-
-In Veo 1, it took a very long time to refine the prompts or find an appropriate way to communicate with it. I remember trying one of the videos above more than 100 times, including prompt revisions, in the hope of getting a new candidate. The quality of the videos I got after learning how to "talk" to Veo 1 was better than I expected.
-
-Veo 2 felt like it was struggling to not deviate from diversity and political correctness. I also don't know if it was to get "safe" results, but the restrictions on certain words in the prompts were relatively strong. However, for cinematic direction, Veo 2 was the best.
-
-With Veo 3, I could see that even prompts that seemed impossible to produce with Veo 1 were generated closer to the user's intent. Among the many dazzling advancements of Veo 3, this was the most satisfying part.
-
-If I were to choose one of the best improvements a user could feel as the Veo model versions up, I would say it's the ability to get closer to the intended result with fewer attempts.
 
 Veo 1에서는 프롬프트를 얼마나 정교하게 다듬어서 입력하느냐 혹은 Veo 1과 사용자 사이에 필요한 적당한 대화법을 찾는 시간이 매우 길었습니다. 위 영상 중 어떤 것 하나는 약 100회 이상의 프롬프트 수정 포함하여 새로운 후보를 기대하며 재시도를 했던 기억이 있습니다. Veo 1과 대화법을 알게 된 이후 얻게 되는 영상의 질은 기대보다 나았습니다.
 
@@ -235,9 +174,7 @@ Veo 3는 Veo 1에서 도저히 결과로 출력할 수 없을 것 같은 프롬�
 
 Veo 모델의 버전이 올라가면서 사용자가 체감하는 발전 중에 최고의 하나를 선정한다면 - 점점 더 적은 횟수의 시도로 의도에 가까운 결과를 얻을 수 있었다는 점이라고 할 수 있겠습니다.
 
-### And so on ... | 그리고 뭣 좀 더 ... 
-
-Individual videos for each model have been uploaded to YouTube in separate playlists. The playlists are as follows.
+### 그리고 뭣 좀 더 ... 
 
 개별 영상들은 모델별로 playlist를 만들어 YouTube에 게시해 두었습니다. 그 playlists는 다음과 같습니다.
 
