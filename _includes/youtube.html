@@ -1,5 +1,7 @@
 <div class="video-container">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ include.id }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!--  <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ include.id }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
+  <iframe src="https://www.youtube.com/embed/{{ include.id }}" title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
-
-<!-- 나중에 반응형 웹을 위해 CSS에서 .video-container 스타일을 정의하면 모든 영상에 적용할 수 있습니다. -->
