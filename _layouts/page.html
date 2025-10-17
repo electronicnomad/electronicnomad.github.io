@@ -8,4 +8,5 @@ layout: default
   <div class="post-content">
     {{ content }}
   </div>
+  {% if site.google_ad_client %}{% include adsense.html %}{% endif %}
 </article>
