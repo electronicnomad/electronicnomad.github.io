@@ -28,8 +28,9 @@ layout: default
   <div class="post-content" itemprop="articleBody">
     {{ content }}
   </div>
+
   <hr>
-  {% if page.comment %}
-    {% include disqus.html %}
-  {% endif %}
+  {% if site.google_ad_client %}{% include adsense.html %}{% endif %}
+  <hr>
+  {% if page.comment %}{% include disqus.html %}{% endif %}
 </article>
