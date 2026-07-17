@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 프론티어 AI를 위한 프레임워크와 새로운 시대의 서막
-author: Demis Hassabis
 tags:
 - 인공지능
 - AI
