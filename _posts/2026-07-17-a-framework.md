@@ -8,6 +8,7 @@ tags:
 
 > 본 글을 데미스 허사비스(Demis Hassabis)가 7월 14일 X 계정으로 게시한 글,
 > [https://x.com/demishassabis/status/2076957440109625718](https://x.com/demishassabis/status/2076957440109625718)의 비공식 한국어 번역본입니다.
+> 주인장.
 
 지금은 인류 역사에서 매우 중요한 전환점입니다. 
 인간의 뇌가 가진 모든 인지 능력을 발휘하는 시스템인 인공일반지능(AGI)의 도래가 
