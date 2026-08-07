@@ -10,7 +10,7 @@ tags:
 - sf
 ---
 
-![head banner img](/media/2026/1785255711724.jpg){:width="75%"}
+![head banner img](/media/2026/1785255711724.jpg)
 
 잠들기 전에 신문용지1에 이런 저런 잡생각을 글자로 옮기는 걸 좋아하는데, 
 최근에는 문송한 분들의 기술에 대한 당찬 자기 주장2을 곱씹으며, 
@@ -78,5 +78,10 @@ Sun Type 3의 현대적 모습은 HHKB라고 할 수 있다.
 2. 이런 주장은 다시 문송한 미디어 관계자들에 의하여 확대되고 널리 유통되어 
 사회에 영향을 주는 코미디가 연출되는 일이 흔하다.
 
-(상단 그림은, Google의 'Nano Banana 2, gemini-3.1-flash-image'로 작성했습니다)
-(linkedIn Article [SF 장르, 평론, 소설, 책 그리고 AI](https://www.linkedin.com/pulse/sf-%EC%9E%A5%EB%A5%B4-%ED%8F%89%EB%A1%A0-%EC%86%8C%EC%84%A4-%EC%B1%85-%EA%B7%B8%EB%A6%AC%EA%B3%A0-ai-kwanghoon-jhin-aawzc/)와 함께 포스팅합니다, 같은 글입니다)
+
+<hr />
+
+<small>
+상단 그림은, Google의 'Nano Banana 2, gemini-3.1-flash-image'로 작성했습니다.  
+linkedIn Article [SF 장르, 평론, 소설, 책 그리고 AI](https://www.linkedin.com/pulse/sf-%EC%9E%A5%EB%A5%B4-%ED%8F%89%EB%A1%A0-%EC%86%8C%EC%84%A4-%EC%B1%85-%EA%B7%B8%EB%A6%AC%EA%B3%A0-ai-kwanghoon-jhin-aawzc/)와 함께 포스팅합니다, 같은 글입니다.
+</small>
