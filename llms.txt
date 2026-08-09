@@ -1,0 +1,34 @@
+---
+layout: null
+---
+# {{ site.title }}
+
+> {{ site.description }}
+
+URL: {{ site.url }}{{ site.baseurl }}/
+Author: {{ site.author }}
+
+## Summary
+Welcome to electronicnomad's personal home page and blog. This site contains articles, notes, and technical posts written by {{ site.author }}.
+
+## Core Pages
+- [Home]({{ site.url }}{{ site.baseurl }}/)
+- [About]({{ site.url }}{{ site.baseurl }}/about.html)
+- [Notes]({{ site.url }}{{ site.baseurl }}/notes.html)
+- [Tags]({{ site.url }}{{ site.baseurl }}/tagged.html)
+
+## Recent Blog Posts
+{% for post in site.posts %}
+- [{{ post.title }}]({{ post.url | prepend: site.baseurl | prepend: site.url }}) - {{ post.date | date: "%Y-%m-%d" }}{% if post.description %}: {{ post.description }}{% endif %}
+{% endfor %}
+
+{% if site.notes %}
+## Notes Collection
+{% for note in site.notes %}
+- [{{ note.title | default: note.relative_path }}]({{ note.url | prepend: site.baseurl | prepend: site.url }})
+{% endfor %}
+{% endif %}
+
+## Feeds & Resources
+- [RSS Feed]({{ site.url }}{{ site.baseurl }}/feed.xml)
+- [Sitemap]({{ site.url }}{{ site.baseurl }}/sitemap.xml)

@@ -1,0 +1,41 @@
+{% if page.layout == "post" or page.date %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": {{ page.title | jsonify }},
+  "description": {% if page.description %}{{ page.description | jsonify }}{% elsif page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 | jsonify }}{% else %}{{ site.description | jsonify }}{% endif %},
+  "url": {{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | jsonify }},
+  "datePublished": {{ page.date | date_to_xmlschema | jsonify }},
+  "dateModified": {% if page.last_modified_at %}{{ page.last_modified_at | date_to_xmlschema | jsonify }}{% else %}{{ page.date | date_to_xmlschema | jsonify }}{% endif %},
+  "author": {
+    "@type": "Person",
+    "name": {% if page.author %}{{ page.author | jsonify }}{% else %}{{ site.author | jsonify }}{% endif %}
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": {{ site.title | jsonify }},
+    "url": {{ site.url | append: site.baseurl | jsonify }}
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": {{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | jsonify }}
+  }{% if page.tags %},
+  "keywords": {{ page.tags | join: ", " | jsonify }}{% endif %}
+}
+</script>
+{% else %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": {{ site.title | jsonify }},
+  "url": {{ site.url | append: site.baseurl | jsonify }},
+  "description": {{ site.description | jsonify }},
+  "author": {
+    "@type": "Person",
+    "name": {{ site.author | jsonify }}
+  }
+}
+</script>
+{% endif %}
