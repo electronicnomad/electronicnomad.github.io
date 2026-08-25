@@ -1,4 +1,4 @@
-name: 한국어 맞춤법 및 문법 검사 (Korean Spelling Checker)
+name: Korean Spelling Check
 
 on:
   pull_request:
