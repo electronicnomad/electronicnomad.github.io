@@ -3,9 +3,11 @@ layout: null
 ---
 User-agent: *
 Allow: /
+Disallow: /dtw/
 
 Sitemap: {{ site.url }}{{ site.baseurl }}/sitemap.xml
 
 # LLM / AI Agent Site Index
 # https://llmstxt.org/
 # {{ site.url }}{{ site.baseurl }}/llms.txt
+
