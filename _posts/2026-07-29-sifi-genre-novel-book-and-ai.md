@@ -2,12 +2,7 @@
 layout: post
 title: SF 장르, 소설, 책, 그리고 AI
 author: 주인장
-tags:
-- AI
-- novel
-- book
-- sifi
-- sf
+tags: AI 소설 책 공상과학 SF
 ---
 
 ![head banner img](/media/2026/1785255711724.jpg)

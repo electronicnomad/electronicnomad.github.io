@@ -2,7 +2,7 @@
 layout: post
 title: 나는 답변(을 검증하는)기계로서의 삶을 받아들어야 한다
 author: 주인장
-tags: LLM, AI, 인공지능, agents, 에이전트,
+tags: LLM AI 인공지능 agents 에이전트
 ---
 
 ![answering machine](/media/2026/202608072135.jpg)
