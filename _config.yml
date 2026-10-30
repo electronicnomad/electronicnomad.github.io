@@ -28,4 +28,6 @@ collections:
   notes:
     output: true
     permalink: /notes/:path/
-
+  podcasts:
+    output: true
+    permalink: /podcasts/:path/

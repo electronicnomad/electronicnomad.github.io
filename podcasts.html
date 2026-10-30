@@ -1,0 +1,9 @@
+---
+layout: page
+title: 팟캐스트
+---
+
+{% for note in site.podcasts %}
+	{{ note.content | markdownify }}
+{% endfor %}
+	
