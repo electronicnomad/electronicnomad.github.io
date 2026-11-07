@@ -2,11 +2,13 @@
 title: links
 ---
 
-### AI의 발견을 누가 검증할 것인가 | 제목이 정해지지 않은 팟캐스트 2026-W44
+| # | 회차 | 제목 | 길이 | 업로드 |
+|---|---|---|---|---|
+| 7 | 번외 2026-11-06 | [나스닥 급락, 선거 이틀째에 터진 이유](https://www.youtube.com/watch?v=WOG7jMqucVo) | 5:51 | 2026-11-06 |
+| 6 | 2026-W45 | [데이터센터가 진 선거, AI가 고친 가중치, 그리고 백도어](https://www.youtube.com/watch?v=ENwP9JluM6Q) | 17:56 | 2026-11-05 |
+| 5 | 번외 2026-11-04 | [AI 인퍼런스란 무엇인가: 추론 번역의 혼란과 컴퓨팅 시장 변화](https://www.youtube.com/watch?v=mlSqhxtE2sk) | 6:50 | 2026-11-04 |
+| 4 | 번외 2026-11-02 | [AI 앱과 에이전트, 다음 단계를 정하는 건 누구인가](https://www.youtube.com/watch?v=AjdR6H6aDcQ) | 8:19 | 2026-11-02 |
+| 3 | 번외 2026-10-31 | [Gemini 4 Carbon, 써볼 수 없는 1위의 의미](https://www.youtube.com/watch?v=jPurEiD7mjo) | 7:57 | 2026-11-01 |
+| 2 | 번외 2026-10-31 | [파라미터 1.6조 개 중 3%만 쓰는 AI, Mixture of Experts](https://www.youtube.com/watch?v=fHoZx0vfvOE) | 8:33 | 2026-11-01 |
+| 1 | 2026-W44 | [AI의 발견을 누가 검증할 것인가](https://www.youtube.com/watch?v=BuKiNlkG3kA) | 14:12 | 2026-10-30 |
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BuKiNlkG3kA?si=sOrb8jDPr_eQ4IWB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
->Anthropic이 상장 서류를 공개하며 AI 회사의 재무제표가 처음 공식 문서로 드러났습니다. 
-AI가 찾은 PHP 취약점은 엠바고 체계를 무너뜨렸고, 
-두 회사가 같은 날 25년 된 수학 가설을 반증했다고 주장했습니다. 
-세 이야기를 묶는 질문은 하나입니다. AI의 발견을 누가, 어떻게 검증할 것인가.
