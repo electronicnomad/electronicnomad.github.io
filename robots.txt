@@ -3,6 +3,20 @@ layout: null
 ---
 User-agent: *
 Allow: /
+Disallow: /dtw/*.pdf$
+Disallow: /dtw/*.pptx$
+Disallow: /dtw/*.jpg$
+Disallow: /dtw/*.jpeg$
+Disallow: /dtw/*.png$
+
+User-agent: GPTBot
+User-agent: ChatGPT-User
+User-agent: OAI-SearchBot
+User-agent: Google-Extended
+User-agent: ClaudeBot
+User-agent: CCBot
+User-agent: PerplexityBot
+Allow: /
 Disallow: /dtw/
 
 Sitemap: {{ site.url }}{{ site.baseurl }}/sitemap.xml
@@ -10,4 +24,3 @@ Sitemap: {{ site.url }}{{ site.baseurl }}/sitemap.xml
 # LLM / AI Agent Site Index
 # https://llmstxt.org/
 # {{ site.url }}{{ site.baseurl }}/llms.txt
-
